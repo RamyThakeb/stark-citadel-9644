@@ -53,7 +53,7 @@
 <div id="youmax"></div>
 
 	
-<script src="./javascript/youmax2.min.js"></script>
+<script src="./javascript/youmax.min.js"></script>
 
   </body>
 </html>
