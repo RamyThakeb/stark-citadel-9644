@@ -4,7 +4,7 @@
     <title>Youmax 2.0 - complete Youtube channel on your website - customize anything you want - Jquery plugin</title>
 
 	<!--<script src="./jquery.min.js"></script>-->
-	<script src="http://code.jquery.com/jquery-1.7.min.js"></script>
+	<script src="javascript/jquery-1.7.1.min.js"></script>
 	
 
 	<script type="text/javascript">
@@ -53,7 +53,7 @@
 <div id="youmax"></div>
 
 	
-<script src="./javascript/youmax.min.js"></script>
+<script src="javascript/youmax.min.js"></script>
 
   </body>
 </html>
