@@ -9,10 +9,10 @@
 
 	<script type="text/javascript">
 	
-	var youTubeChannelURL = "http://www.youtube.com/user/Ramythakeb";
+	var youTubeChannelURL = "http://www.youtube.com/user/MoezMasoudOfficial";
 	
 	//optional parameters-----------------------------------------------
-	var youTubePlaylistURL = "http://www.youtube.com/playlist?list=FLbRejFIs6o_VOqzrowMHpRw";
+	var youTubePlaylistURL = "http://www.youtube.com/playlist?list=PL08uEgAEpTIrX3DQiTz5WWtjibI6k3G5x";
 	var youmaxDefaultTab = "featured";
 	var youmaxColumns = 3;	
 	var youmaxWidgetWidth = 900;
