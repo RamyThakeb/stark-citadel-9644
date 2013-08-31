@@ -17,7 +17,7 @@
 	var youmaxColumns = 3;	
 	var youmaxWidgetWidth = 900;
 	//var youmaxWidgetHeight = 1000;
-	var showFeaturedVideoOnLoad = false;
+	var showFeaturedVideoOnLoad = true;
 	var showVideoInLightbox = false;
 
 	
