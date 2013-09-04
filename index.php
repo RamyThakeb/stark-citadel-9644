@@ -52,7 +52,7 @@
     <script>
       window.fbAsyncInit = function() {
         FB.init({
-          appId : 'YOUR_APP_ID', //Your facebook APP here
+          appId : '578710695524422', //Your facebook APP here
           cookie : true // enable cookies to allow the server to access the session
         });
       }
