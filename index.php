@@ -15,7 +15,7 @@
 	var youTubePlaylistURL = "https://www.youtube.com/playlist?list=PL08uEgAEpTIrX3DQiTz5WWtjibI6k3G5x";
 	var youmaxDefaultTab = "featured";
 	var youmaxColumns = 3;	
-	var youmaxWidgetWidth = 792;
+	var youmaxWidgetWidth = 782;
 	//var youmaxWidgetHeight = 1000;
 	var showFeaturedVideoOnLoad = true;
 	var showVideoInLightbox = false;
